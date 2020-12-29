@@ -1,0 +1,16 @@
+{
+  "name": "api_tests_reqres",
+  "version": "1.0.0",
+  "description": "api tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Vitaliy F",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "supertest": "^6.0.1"
+  }
+}
